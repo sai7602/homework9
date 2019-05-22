@@ -1,12 +1,7 @@
 body{
     background-color: gray;
-    // width: 960;
-    // margin: 0 auto;
-    // background-image: url(../img/background.jpg);
-    // background-position: center;
-    // background-repeat: no-repeat;
-    
 }
+
 .wrapper{
     width:960px;
     margin: 0 auto;
@@ -43,10 +38,9 @@ body{
                 margin-bottom: 30px;
         }
         }
-    
     }
-
 }
+
 .header{
     margin: 0 auto;
     width: 817px;
@@ -55,14 +49,15 @@ body{
     color: #e6e6e6;
     align-items: flex-end;
 }
+
 .logo{
     margin-top: 57.1px;
     margin-left: -0.5px;
 }
+
 .contact{
     margin-right: 1.3px;
     margin-bottom: 1px;
-    // padding-bottom: 6px;
     ul{
         list-style-type: none;
     }
@@ -70,13 +65,10 @@ body{
     font-family: Tahoma, sans-serif;
     font-size: 8.47px;
     margin-bottom: -2px;
-    // padding-bottom: 0.1px;
     &:first-child{
         font-size: 12.16px;
-        // font-weight: bold;
         letter-spacing: -0.6px;
         margin-bottom: 1px;
-        // padding-bottom: 4px;
     }
     &:last-child{
         padding-right: 15px;
